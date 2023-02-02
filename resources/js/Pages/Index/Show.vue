@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <div>Show</div>
-    </div>
+  <div>
+    <div>Show</div>
+  </div>
 </template>
 
 

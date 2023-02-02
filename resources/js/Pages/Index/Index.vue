@@ -1,8 +1,8 @@
 <template>
-    <div>
-        <div>Index</div>
-        <div>{{ props.message }}</div>
-    </div>
+  <div>
+    <div>Index</div>
+    <div>{{ props.message }}</div>
+  </div>
 </template>
 
 
@@ -10,6 +10,6 @@
 
 
 const props = defineProps({
-    message: String,
-})
+  message: String,
+});
 </script>
